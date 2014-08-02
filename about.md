@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+published: false
 ---
 
 Some information about you!
